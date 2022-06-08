@@ -12,6 +12,5 @@ public with sharing class AccountController {
             WITH SECURITY_ENFORCED
             LIMIT 1
         ];
-        //File Updated
     }
 }
